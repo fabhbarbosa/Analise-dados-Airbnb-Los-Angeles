@@ -1,3 +1,9 @@
+
+
+# Fabio Barbosa
+<sub>*Data Science | Machine Learning * </sub>
+
+
 ## Visão Geral
 
 Este repositório contém uma breve análise exploratória de dados realizada por mim, com foco nos dados de acomodações do Airbnb na cidade de Los Angeles, nos EUA.
